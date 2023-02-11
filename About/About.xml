@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Half dragons (Continued)</name>
+  <packageId>Mlie.HalfDragons</packageId>
+  <author>Monti, Caulaflower</author>
+  <url>https://github.com/emipa606/HalfDragons</url>
+  <supportedVersions>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+      <downloadUrl>https://github.com/erdelf/AlienRaces/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>erdelf.HumanoidAlienRaces</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of Monti, Caulaflowers mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2556121262
+
+- Removed HugsLib requirement
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/HalfDragons][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+Sorry everyone but im not going to update this anytime soon. Mainly because of time issues that couples with war, biotech provides (or will provide in near future) everything you need, however i might be make faction/new "empire" mod (not anytime soon)
+
+[h1]Half-Dragons Empire[/h1]
+
+The Half-Dragons have been a space-faring race for quite a long time, contrary to popular belief these noble yet somewhat savage folk are not genetically engineered. They are easily spotted by their physical differences from humans thanks to their colorful scales, draconic eyes, horns and tails. Thanks to their physical differences and strong scales people of this race proved themselves to be excellent melee combatants. It was easy to find them serving various empires outside of their own as front-line fighters.
+
+      Sadly due to their hardy nature and exotic looks many Half-Dragons end up captured and forced into gladiatorial combat. There are other reasons they are highly sought after; unique biological traits that are wholly unique to them. One of which allows combining a specialized ore with their blood that activates various powerful abilities.
+
+      A point of debate of many scholars is how such an openly savage race had made it to spaceflight, much less a force that roams about the galaxy. This is in large part thanks to a rare sub-group of Half-Dragons that lead their kind in political, cultural, and scientific endeavors. These "human blooded" individuals are almost the polar opposites of their more common brutish brethren. Despite a strong imperial nation and a sense of loyalty to their own, those that find themselves able to escape their gladiatorial slavery often form up as pirates. These pirates tend to be ruthless and a general nuisance in the galaxy.
+    
+[h1]Race[/h1]
+
+-[b]High physical prowes[/b]: They are generally better in melee combat and everyday tasks, faster too. Brawlers are common.
+
+-[b]Lower mental stats[/b]: Your everyday half-dragon won’t be dumber than humans but they are not predisposed to researching new technologies.
+
+-[b]Regeneration[/b]: Half-Dragons have storage of special liquid in their heart that most call Dragon blood, it gives them the ability to recover from most grievous wounds. However, if exhausted in one go it will negatively affect a person’s health for a set amount of time.
+
+
+-[b]Dragon rage[/b]: This race is famous for its savage and bloodlusty individuals, each attack applies a stacking bonus that increases attack dmg and penetration by 10% each hit, till it reaches 30% and then repeats its cycle. Each final hit gives some dragon blood reserve.
+
+[h1]Content inside:[/h1]
+
+-3 new weapons
+-one set of apparel+helm
+-integration in vanilla factions (you will see them in raids/trader caravans)
+-5 sets of different horn textures
+
+Here is updated to-do, i will expand with specific info on it soon(just a general overview currently):
+https://docs.google.com/document/d/1K7KeYXpsVDvYUM9P4LhKSf97AEDHhpHtFrMVhHvVkOI/edit?usp=sharing
+
+[h1]Recomended mods:[/h1]
+
+-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2539273760&amp;amp;searchtext=render] Pawn Render Patch for HD [/url]
+
+[h1]List of less-compatible mods:[/h1]
+
+-Prepare carefully
+
+[h1]Contact me:[/h1]
+
+https://discord.gg/2gX32VSW
+
+
+[h1]Support me:[/h1]
+
+[url=https://destream.net/live/Monti/donate] [img]https://i.imgur.com/InHwhWR.png?1[/img] [/url]
+	
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]</description>
+</ModMetaData>

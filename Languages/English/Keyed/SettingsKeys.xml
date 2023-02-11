@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HaDr.UseVanillaEyesGameActive>Use vanilla eyes (requires reloading the save to take effect)</HaDr.UseVanillaEyesGameActive>
+  <HaDr.UseVanillaEyes>Use vanilla eyes</HaDr.UseVanillaEyes>
+  <HaDr.CurrentModVersion>Installed mod-version: {0}</HaDr.CurrentModVersion>
+  <HaDr.NeedIncreaseInterval>Need increase interval: {0}</HaDr.NeedIncreaseInterval>
+  <HaDr.NeedIncreaseIntervalTT>DragonBlood increase interval(default 600)</HaDr.NeedIncreaseIntervalTT>
+  <HaDr.NeedIncreaseValue>Need increase amount</HaDr.NeedIncreaseValue>
+  <HaDr.NeedIncreaseValueTT>DragonBlood increase per interval(default 0.5%)</HaDr.NeedIncreaseValueTT>
+  <HaDr.InjuryHealingPoints>Injury healing amount: {0}</HaDr.InjuryHealingPoints>
+  <HaDr.InjuryHealingPointsTT>How much health is healed on a random injury(default 5)</HaDr.InjuryHealingPointsTT>
+  <HaDr.InjuryHealingCost>Injury healing cost</HaDr.InjuryHealingCost>
+  <HaDr.InjuryHealingCostTT>How much DragonBlood it costs to heal an injury(default 0.02)</HaDr.InjuryHealingCostTT>
+  <HaDr.ThresholdToBeConsideredDamaged>Bodypart damaged threshold</HaDr.ThresholdToBeConsideredDamaged>
+  <HaDr.ThresholdToBeConsideredDamagedTT>When is a body part considered damaged? (starts DragonBlood healing)(default 0.5)</HaDr.ThresholdToBeConsideredDamagedTT>
+  <HaDr.ThresholdToBeConsideredHealed>Bodypart healed threshold</HaDr.ThresholdToBeConsideredHealed>
+  <HaDr.ThresholdToBeConsideredHealedTT>When is a body part considered healed? (stops DragonBlood healing)(default 1)</HaDr.ThresholdToBeConsideredHealedTT>
+  <HaDr.DragonBloodGainFromDragonRage>DragonBlood gain from DragonRage</HaDr.DragonBloodGainFromDragonRage>
+  <HaDr.DragonBloodGainFromDragonRageTT>On each final DragonRage hit, gain how much DragonBlood?(default 0.1)</HaDr.DragonBloodGainFromDragonRageTT>
+</LanguageData>
