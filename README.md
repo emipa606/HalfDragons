@@ -56,17 +56,6 @@ https://docs.google.com/document/d/1K7KeYXpsVDvYUM9P4LhKSf97AEDHhpHtFrMVhHvVkOI/
 
 -Prepare carefully
 
-# Contact me:
-
-
-https://discord.gg/2gX32VSW
-
-
-# Support me:
-
-
-https://destream.net/live/Monti/donate] ![Image](https://i.imgur.com/InHwhWR.png?1)
- 
 	
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -80,3 +69,4 @@ https://destream.net/live/Monti/donate] ![Image](https://i.imgur.com/InHwhWR.png
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2932034042]Last updated 2023-05-07
