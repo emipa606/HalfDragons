@@ -69,4 +69,4 @@ https://docs.google.com/document/d/1K7KeYXpsVDvYUM9P4LhKSf97AEDHhpHtFrMVhHvVkOI/
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2932034042]Last updated 2023-05-07
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2932034042]Last updated 2023-08-26

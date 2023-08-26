@@ -1,5 +1,8 @@
 # Changelog for HalfDragons
 
+1.4.2 - Added gene-restrictions to remove graphical issues
+
+
 1.4.1 - Fixed the Royalty patch
 
 
