@@ -1,5 +1,8 @@
 # Changelog for HalfDragons
 
+1.4.3 - Last update, added end-of-life message
+
+
 1.4.2 - Added gene-restrictions to remove graphical issues
 
 
